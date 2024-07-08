@@ -1,0 +1,11 @@
+---------------LIBRARY MANAGEMENT SYSTEM---------------
+ONLINE LIBRARY
+TO ACCESS THE SERVICES PROVIDED BY THIS SOTWARE ONE SHOULD GET LOGIN SUCCESSULLY.
+-->SEARCH:Helps the user to find the required book easily.
+-->DISPLAY:Helps the user to know all the books available in library.
+-->UPDATE:Helps librarian to add books into the library.
+-->Delete:Helps librarian to delete the book from library.
+-->Recommend book:If the user wants to recommend a book,this can be done in feedback form.
+TO USE THE SERVICES ENTER THE OPTION OF THE SPECIFIED SERVICE AND ENTER VALID DETAILS.
+-----FOR ANY QUERIES CONTACT LIBRARIAN:9987654321
+----------------------THANK YOU------------------ 
